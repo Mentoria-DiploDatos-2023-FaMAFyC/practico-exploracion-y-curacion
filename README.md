@@ -1,4 +1,4 @@
-Practico 2 - Exploracion y Curacion
+# Practico 2 - Exploracion y Curacion
 Consignas: Dentro del directorio notebooks
 
 Para la entrega de este practico deben subir un notebook con el trabajo realizado en el directorio notebooks, especificando el numero de grupo.
